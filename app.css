@@ -1,0 +1,16 @@
+.b{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+body{
+    width: 800px;
+    height: 800px;
+    display: flex;
+    border: 2px solid black;
+}
+.w{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+}
